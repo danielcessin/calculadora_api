@@ -22,6 +22,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
  
 Projeto em Java, feito no Eclipse, para acomodar as classes e estruturas responsáveis pela persistência futura dos dados manipulados no protótipo. O projeto contém todas as entidades envolvidas e os seus relacionamentos, as classes para persistir e consultar os objetos e classes de teste unitário. 
 
-## 👔 Colaboradores
+## 👔 Desenvolvedor
 
 Daniel Aguiar Cessin
